@@ -1,0 +1,19 @@
+ .blocked: {
+    background: 'red'
+  },
+  .path: {
+    background: 'green'
+  },
+  .mouse: {
+   background: 'url(../mouse.png)',
+  'background-attachment': 'fixed',
+  'background-size': 'cover',
+   overflow: 'hidden'
+
+  },
+ .cheese: {
+   background: 'url(../cheese.png)',
+  "background-attachment": 'fixed',
+  'background-size': 'cover',
+   overflow: 'hidden'
+  }
